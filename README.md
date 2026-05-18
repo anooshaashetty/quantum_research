@@ -1,2 +1,3 @@
 # quantum_research
-All the info dump
+Understanding what happens to your data when it gets encoded into quantum states.
+
